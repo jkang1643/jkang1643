@@ -1,7 +1,7 @@
 # **DevOps Engineer | Cloud Architect | Full Stack Developer | AI Developer** 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=007AFF&center=true&vCenter=true&width=600&height=100&lines=DevOps+Engineer;Cloud+Specialist;Full+Stack+Architect;AI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=007AFF&center=true&vCenter=true&width=600&height=100&lines=DevOps+Engineer;Cloud+Architect;Full+Stack+Developer;AI+Developer" alt="Typing SVG" />
 </div>
 
 <!-- Modern Technology GIFs Section -->
