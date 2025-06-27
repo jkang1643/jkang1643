@@ -216,7 +216,7 @@ gantt
 
 ### **Cloud & DevOps**
 <div align="center" style="margin: 15px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="google cloud logo" />
   <img width="12" />
@@ -311,7 +311,7 @@ gantt
   <img src="https://img.shields.io/badge/Microservices-Architecture-007AFF?style=flat-square" alt="Microservices" />
   <img src="https://img.shields.io/badge/Cloud-Native-007AFF?style=flat-square" alt="Cloud Native" />
   <img src="https://img.shields.io/badge/Serverless-Architecture-007AFF?style=flat-square" alt="Serverless" />
-  <img src="https://img.shields.io/badge/Event-Driven-Architecture-007AFF?style=flat-square" alt="Event Driven" />
+  <img src="https://img.shields.io/badge/Event--Driven-Architecture-007AFF?style=flat-square" alt="Event Driven" />
 </div>
 
 ### **Core Competencies**
