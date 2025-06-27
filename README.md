@@ -23,17 +23,22 @@
 
 ## **About**
 
-> *"Architecting the future of cloud-native applications with AI-powered development"*
+<div align="center" style="margin-bottom: 16px;">
+  <blockquote>
+    <em>"Architecting the future of cloud-native applications with AI-powered development"</em>
+  </blockquote>
+</div>
 
-I'm a multi-disciplinary technology professional specializing in DevOps engineering, cloud architecture, full-stack development, and AI integration. With expertise spanning the entire technology stack, I design and implement scalable, resilient systems that drive business innovation.
-
-<div align="center" style="margin: 30px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jkang1643&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=007AFF&text_color=1D1D1F&icon_color=007AFF" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jkang1643&theme=default&hide_border=true&background=ffffff&stroke=007AFF&ring=007AFF&fire=FF3B30&currStreakNum=1D1D1F&currStreakLabel=007AFF&sideNums=1D1D1F&sideLabels=1D1D1F&dates=8E8E93" alt="GitHub Streak" />
+<div align="center" style="max-width: 700px; margin: 0 auto 24px auto;">
+  I'm a multi-disciplinary technology professional specializing in DevOps engineering, cloud architecture, full-stack development, and AI integration. With expertise spanning the entire technology stack, I design and implement scalable, resilient systems that drive business innovation.
 </div>
 
 <div align="center" style="margin: 30px 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkang1643&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=007AFF&text_color=1D1D1F&langs_count=8" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jkang1643&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=007AFF&text_color=1D1D1F&icon_color=007AFF&hide_rank=true" alt="GitHub Stats" height="150" />
+</div>
+
+<div align="center" style="margin: 30px 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkang1643&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=007AFF&text_color=1D1D1F&langs_count=8" alt="Most Used Languages" height="150" />
 </div>
 
 ---
