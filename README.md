@@ -26,24 +26,30 @@
   I'm a multi-disciplinary technology professional specializing in DevOps engineering, cloud architecture, full-stack development, and AI integration. With expertise spanning the entire technology stack, I design and implement scalable, resilient systems that drive business innovation.
 </div>
 
-<div align="center" style="margin: 30px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jkang1643&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=007AFF&text_color=1D1D1F&icon_color=007AFF&hide_rank=true" alt="GitHub Stats" height="150" />
-</div>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://komarev.com/ghpvc/?username=jkang1643&style=flat-square&color=007AFF" alt="Profile Views" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-34C759?style=flat-square" alt="Status" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Location-United%20States-007AFF?style=flat-square" alt="Location" />
+    </td>
+  </tr>
+</table>
 
-<div align="center" style="margin: 30px 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkang1643&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=007AFF&text_color=1D1D1F&langs_count=8" alt="Most Used Languages" height="150" />
-</div>
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://komarev.com/ghpvc/?username=jkang1643&style=flat-square&color=007AFF" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-34C759?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-United%20States-007AFF?style=flat-square" alt="Location" />
-</div>
-
-<div align="center" style="margin: 30px 0;">
-  <img src="https://streak-stats.demolab.com?user=jkang1643&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3&background=ffffff&stroke=007AFF&ring=007AFF&fire=FF3B30&currStreakNum=1D1D1F&sideNums=1D1D1F&currStreakLabel=007AFF&sideLabels=007AFF&dates=1D1D1F" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=jkang1643&theme=default&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4&background=ffffff&color=007AFF" height="150" alt="trophy graph"  />
-</div>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=jkang1643&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3&background=ffffff&stroke=007AFF&ring=007AFF&fire=FF3B30&currStreakNum=1D1D1F&sideNums=1D1D1F&currStreakLabel=007AFF&sideLabels=007AFF&dates=1D1D1F" height="150" alt="streak graph"  />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app?username=jkang1643&theme=default&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4&background=ffffff&color=007AFF" height="150" alt="trophy graph"  />
+    </td>
+  </tr>
+</table>
 
 ---
 
