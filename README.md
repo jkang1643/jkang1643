@@ -34,17 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkang1643&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=007AFF&text_color=1D1D1F&langs_count=8" alt="Most Used Languages" height="150" />
 </div>
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://komarev.com/ghpvc/?username=jkang1643&style=flat-square&color=007AFF" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-34C759?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-United%20States-007AFF?style=flat-square" alt="Location" />
-</div>
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 ---
 
 ## **Technology Proficiency**
