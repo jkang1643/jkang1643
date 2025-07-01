@@ -33,7 +33,7 @@
 </div>
 
 <div align="center" style="margin: 30px 0;">
-  <img src="https://streak-stats.demolab.com?user=jkang1643&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3&background=ffffff&stroke=007AFF&ring=007AFF&fire=FF3B30&currStreakNum=1D1D1F&sideNums=1D1D1F&currStreakLabel=007AFF&sideLabels=007AFF&dates=1D1D1F" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=jkang1643" height="150" alt="streak graph"  />
 </div>
 
 <div align="center" style="margin: 30px 0;">
